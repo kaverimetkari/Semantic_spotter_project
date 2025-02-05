@@ -104,8 +104,8 @@ The LangChain framework revolves around the following building blocks:
 
 ## 6. System Architecture
 
-![](./images/arch1.png)
-![](./images/arch2.png)
+![](./images/architecture1.png)
+![](./images/architecture2.png)
 
 ## 7. Prerequisites
 
@@ -119,8 +119,8 @@ The LangChain framework revolves around the following building blocks:
 
 - Clone the github repository
   ```shell
-  $ git clone https://github.com/SanjayaKumarSahoo/semantic-spotter-project.git
+  $ git clone https://github.com/kaverimetkari/Semantic-spotter-project.git
   ```
 - Open
-  the [notebook](https://github.com/SanjayaKumarSahoo/semantic-spotter-project/blob/main/semantic-spotter-langchain-notebook.ipynb)
+  the [notebook](https://github.com/kaverimetkari/Semantic-spotter-project/blob/main/semantic-spotter-langchain-notebook.ipynb)
   in jupyter and run all cells.
